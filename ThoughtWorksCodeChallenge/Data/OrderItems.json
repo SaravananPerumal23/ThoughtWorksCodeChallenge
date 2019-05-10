@@ -1,0 +1,30 @@
+﻿[
+  {
+    "ItemId":  "1",
+    "ItemName": "Chicken Fried Rice",
+    "ItemDescription": "Ingredients- asdadsa",
+    "ItemPrice": 120.50,
+    "DeliveryCharge": 15.00
+  },
+  {
+    "ItemId": "2",
+    "ItemName": "Chicken 65",
+    "ItemDescription": "Ingredients- asdadsa",
+    "ItemPrice": 220.50,
+    "DeliveryCharge": 10.00
+  },
+  {
+    "ItemId": "3",
+    "ItemName": "Chicken Briyani",
+    "ItemDescription": "Ingredients- asdadsa",
+    "ItemPrice": 230.00,
+    "DeliveryCharge": 20.00,
+  },
+  {
+    "ItemId": "4",
+    "ItemName": "Chicken Tikka",
+    "ItemDescription": "Ingredients- asdadsa",
+    "ItemPrice": 150.75,
+    "DeliveryCharge": 5.00
+  },
+]

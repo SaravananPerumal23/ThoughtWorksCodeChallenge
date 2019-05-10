@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="BAL\" />
+    <Folder Include="Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Model\OrderLocations.cs" />
+    <Compile Remove="Model\OrderLocations.cs" />
+    <Compile Remove="BAL\CommonFunctions.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Model\Globals.css" />
+    <None Remove="Data\Orders.json" />
+  </ItemGroup>
+</Project>
